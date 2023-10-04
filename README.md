@@ -9,7 +9,7 @@ clangd 在这方面更加具有优势，功能强大，资源消耗小，是一�
 ![clangd ext](./asset/clangd-ext.png)
 
 
-这里提供 mac 上安装配置 clangd 插件
+这里提供 mac 上安装配置 clangd 插件的实验过程。
 
 ## 依赖库
 构建本项目，需要额外下载第三方库
