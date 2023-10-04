@@ -18,7 +18,7 @@ brew install fmt
 ```
 
 ## 安装使用 clangd 的方法
-```json
+```C++
 /* 
 1. 在终端安装 clangd 执行命令 brew install llvm , 这个不仅会安装 clangd 还会安装 clang和clang++
 
