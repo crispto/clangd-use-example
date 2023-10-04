@@ -1,2 +1,2 @@
-hello: hello.cpp
-	clang++ --std=c++20 -o build/hello hello.cpp
+main:
+	cmake -S . -B build  -DCMAKE_BUILD_TYPE=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
